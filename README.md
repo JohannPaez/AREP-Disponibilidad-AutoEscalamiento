@@ -69,3 +69,28 @@ Finalmente añadimos una política de escalado que servirá para saber cuando la
 ![](Images/15.PoliticaAutoEscalamiento.png)
 
 ![](Images/16.PoliticaAutoEscalamiento2.png)
+
+## Video Demostrativo
+
+El video demostrativo de que la configuración realizada escala automáticamente y crea nuevas instancias para soportar nuevas peticiones.
+
+- https://www.youtube.com/watch?v=_M2e8o5Ycq8&ab_channel=SebastianP%C3%A1ez.
+
+
+## Construido con
+
+- [Maven](https://maven.apache.org/) Administrador de dependencias.
+
+- [Docker](https://www.docker.com/) Administrador de contenedores.
+
+- [Spark](http://sparkjava.com/) Framework para desarrollar aplicaciones web.
+
+- [GitHub](https://github.com/) Sistema de control de versiones Git.
+
+## Autor
+**Johann Sebastian Páez Campos** - Trabajo Programación AREP-Taller de Disponibilidad y Autoescalamiento **03/11/2020**
+
+## Licencia
+Este programa es de uso libre, puede ser usado por cualquier persona.
+
+Los terminos de la licencia se pueden encontrar en el siguiente archivo [License](LICENSE)
